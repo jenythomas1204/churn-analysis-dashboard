@@ -12,8 +12,8 @@
 - Actionable insights for retention marketing
 
 ## 📈 Live Dashboard Screenshots
-![Summary Page]("C:\Users\USER\Pictures\Screenshots\Screenshot (1).png")
-![Churn Prediction]("C:\Users\USER\Pictures\Screenshots\Screenshot (2).png")
+![Summary Page]("Summary.png")
+![Churn Prediction]("Prediction.png")
 
 ## 🚀 Quick Demo
 [Watch the project walkthrough](your-linkedin-post-link)
