@@ -12,8 +12,8 @@
 - Actionable insights for retention marketing
 
 ## 📈 Live Dashboard Screenshots
-![Summary Page](screenshots/summary.png)
-![Churn Prediction](screenshots/prediction.png)
+![Summary Page]("C:\Users\USER\Pictures\Screenshots\Screenshot (1).png")
+![Churn Prediction]("C:\Users\USER\Pictures\Screenshots\Screenshot (2).png")
 
 ## 🚀 Quick Demo
 [Watch the project walkthrough](your-linkedin-post-link)
@@ -22,5 +22,5 @@
 **SQL** | **Power BI** | **Python** | **ETL** | **Data Visualization** | **Machine Learning**
 
 ---
-⭐ **Star this repo if you found it helpful!** Connect on [LinkedIn](your-linkedin)
+⭐ **Star this repo if you found it helpful!** Connect on [LinkedIn]([your-linkedin](https://www.linkedin.com/in/jeny-grace-thomas-24aa31365))
 
