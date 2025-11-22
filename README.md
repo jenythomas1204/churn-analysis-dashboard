@@ -1,2 +1,26 @@
-# churn-analysis-dashboard
-End-to-End Customer Churn Analysis: SQL ETL, Power BI Dashboard, Random Forest ML. This project is about understanding and predicting which customers are likely to leave (churn) a business by analyzing their data with interactive dashboards. The main goal is to help companies identify high-risk customers and take action to keep them longer.
+# 🚀 Customer Churn Analysis Dashboard
+
+**End-to-End analytics project analyzing telecom customer churn using SQL ETL, Power BI visualization, and Random Forest ML (84% accuracy)**
+
+## 📊 Project Overview
+- **Dataset**: 6,418 telecom customers with 17.5% churn rate 【685.079, type: source】 
+- **Tech Stack**: SQL Server, Power BI, Python (Pandas, Scikit-learn)
+
+## ✨ Key Features
+- Interactive Power BI dashboard with demographic/geographic churn analysis
+- Random Forest model predicting future churners
+- Actionable insights for retention marketing
+
+## 📈 Live Dashboard Screenshots
+![Summary Page](screenshots/summary.png)
+![Churn Prediction](screenshots/prediction.png)
+
+## 🚀 Quick Demo
+[Watch the project walkthrough](your-linkedin-post-link)
+
+## 💼 Skills Demonstrated
+**SQL** | **Power BI** | **Python** | **ETL** | **Data Visualization** | **Machine Learning**
+
+---
+⭐ **Star this repo if you found it helpful!** Connect on [LinkedIn](your-linkedin)
+
