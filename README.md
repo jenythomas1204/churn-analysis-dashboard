@@ -22,5 +22,6 @@
 **SQL** | **Power BI** | **Python** | **ETL** | **Data Visualization** | **Machine Learning**
 
 ---
-⭐ **Star this repo if you found it helpful!** Connect on [LinkedIn]([your-linkedin](https://www.linkedin.com/in/jeny-grace-thomas-24aa31365))
+⭐ **Star this repo if you found it helpful!** Connect on [LinkedIn](https://www.linkedin.com/in/jeny-grace-thomas-24aa31365)
+
 
